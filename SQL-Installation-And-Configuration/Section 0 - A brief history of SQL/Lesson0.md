@@ -1,0 +1,14 @@
+# Let's start with a little groundwork
+
+## About MySQL
+`MySQL` is an open source general purpose relational database management system. Originally written by **Monty Widenius** and **David Axmark**, Monty served as a primary developer for most of the code's history. Monty has said that the correct pronunciation is _'MY ESS-QUE-ELL'_, but that he doesn't mind if people choose to pronounce it differently.
+
+MySQL is written in C and C++ and runs on a wide variety of platforms, including Unix, Linux, and their derivatives, macOS, Windows, and many others. Most cloud computing platforms provide MySQL instances, including Amazon Web Services, Rackspace, and even Microsoft Azure.
+
+`MySQL` began as an open source alternative to `mSQL`, a small database system that was popular for small applications in the mid '90s. `mSQL` was never offered under an open source license and its legality as a database for websites was unclear. `MySQL` was fully API-compatible with `mSQL`, making it a viable drop in replacement for many applications. Since its first public release in May of 1995, MySQL has been offered under the General Purpose License.
+
+Upon release of the first version of MySQL, it was owned and administered by MySQL AB, a Swedish company founded by the developers. Their business model was to sell proprietary licenses with support contracts while keeping the code fully GPL compliant. Development continued throughout the late '90s and early 2000s, and MySQL evolved into a full-featured enterprise capable relational database management system. By 2008, MySQL had become the runaway favorite database management system for websites and small to medium-sized businesses. Rumor had MySQL AB filing an IPO, but instead they were acquired by Sun Microsystems. Sun kept the original team and allowed them to continue running the MySQL part of the business.
+
+As the mini-computer business slowed down, Sun Microsystems ran into financial problems, and in January 2010, they were acquired by Oracle Corporation. `Monty Widenius` immediately took his development team and founded Maria Corporation AB and created a fork of the open source `MySQL` as `MariahDB`. Many people had feared MySQL would not survive, but it has thrived Under Oracle stewardship. Oracle had a reputation for being hostile toward open source projects. However, they have continued MySQL's successful business model and have applied their extensive database expertise to the project and made it into a significant force in the database world. 
+
+Today MySQL is as powerful as any major database system supporting full asset compliant transactions, foreign key constraints, database partitioning, clusters, and many more advanced database features. The official graphical user interface for MySQL is MySQL Workbench, which is included in the standard MySQL distribution. MySQL is an essential part of many development and application environments.
